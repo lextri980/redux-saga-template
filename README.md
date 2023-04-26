@@ -1,7 +1,7 @@
 # Redux Saga template
 
 ### Abstract
-This is a website to buy and sell items
+This is template of redux saga web
 
 ### Prerequisites
 Before you continue, ensure you meet the following requirements:
